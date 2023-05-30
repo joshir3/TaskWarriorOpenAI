@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 
 if len(sys.argv) > 1:
